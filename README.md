@@ -21,7 +21,7 @@ flutter run               # bağlı iOS cihazında
 - **Otomatik keşif** — UDP broadcast ile aynı ağdaki cihazlar IP girmeden bulunur
 - **Onaylı aktarım** — alıcı kabul etmeden dosya gönderilmez
 - **Akış tabanlı gönderim** — büyük dosyalar HTTP üzerinden parça parça aktarılır, ilerleme anlık gösterilir
-- **Çok dilli arayüz** — Türkçe, İngilizce, Almanca, İspanyolca, Fransızca, Rusça, Çince
+- **Çok dilli arayüz** — Türkçe, İngilizce, Rusça, Çince
 - **Tek kod tabanı** — iOS ve Windows aynı Flutter projesinden derlenir
 
 ## Proje yapısı
